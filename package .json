@@ -1,0 +1,12 @@
+{
+    "name": "wd3",
+    "version": "1.0.0",
+    "description": "to-do-application",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Deepika",
+    "license": "ISC"
+  }
+  
